@@ -1,0 +1,5 @@
+# random module
+# Модуль random
+
+
+
